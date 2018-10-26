@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Patrol.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Trap.cs" />
+    <Compile Include="Assets\Scripts\Tyler's Scripts\Player.cs" />
     <Compile Include="Assets\Skining Tools\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
     <Compile Include="Assets\Skining Tools\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
     <Compile Include="Assets\Skining Tools\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
