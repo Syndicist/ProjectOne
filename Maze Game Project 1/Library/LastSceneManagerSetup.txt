@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Textured Levels/Level 1.unity
+- path: Assets/Scenes/Primitive Levels/Primitive Level 1.unity
   isLoaded: 1
   isActive: 1
