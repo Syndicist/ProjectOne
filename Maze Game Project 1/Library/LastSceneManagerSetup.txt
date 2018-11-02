@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/Primitive Levels/Primitive Level 3.unity
+=======
 - path: Assets/Scenes/Primitive Levels/Primitive Level 1.unity
+>>>>>>> 8f3fbaede4160e7aefd9e68e8a500d2c72a6cf86
   isLoaded: 1
   isActive: 1
