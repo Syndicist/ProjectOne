@@ -1,4 +1,24 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Primitive Levels/Primitive Level 5.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/Primitive Levels/Primitive Level 4.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/Primitive Levels/Primitive Level 3.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/Primitive Levels/Primitive Level 1.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/Primitive Levels/Primitive Level 3.unity
+=======
+- path: Assets/Scenes/Primitive Levels/Primitive Level 1.unity
+>>>>>>> 8f3fbaede4160e7aefd9e68e8a500d2c72a6cf86
+>>>>>>> 6850c03f4a4683ab610c3091bf6b15c6d9f34c30
+>>>>>>> f01974ebe11d397065e6032d975e0eccd7167c44
+>>>>>>> c22d91d391ccdc236728c6d6b5dddbe5fe9e4e8a
+>>>>>>> 9726929c52674ba25c80a47f529c44e41c6a47c2
   isLoaded: 1
   isActive: 1
